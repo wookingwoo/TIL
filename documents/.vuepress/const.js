@@ -6,8 +6,8 @@ exports.PythonList = [
   "Python/python_in",
 ];
 
-exports.DataStructureAndAlgorithmList = [];
+// exports.DataStructureAndAlgorithmList = [];
 
-// exports.DailyCodingList = ["Daily-Coding/filtering"];
+exports.DailyCodingList = ["Daily-Coding/filtering"];
 
-exports.ETCList = [];
+// exports.ETCList = [];

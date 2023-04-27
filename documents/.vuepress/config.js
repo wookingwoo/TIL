@@ -25,10 +25,10 @@ module.exports = {
         title: "Data structure and Algorithm",
         children: CONST.DataStructureAndAlgorithmList,
       },
-      // {
-      //   title: "Daily Coding",
-      //   children: CONST.DailyCodingList,
-      // },
+      {
+        title: "Daily Coding",
+        children: CONST.DailyCodingList,
+      },
       {
         title: "Python",
         children: CONST.PythonList,
