@@ -8,6 +8,6 @@ exports.PythonList = [
 
 exports.DataStructureAndAlgorithmList = [];
 
-exports.DailyCodingList = ["Daily-Coding/filtering"];
+// exports.DailyCodingList = ["Daily-Coding/filtering"];
 
 exports.ETCList = [];
