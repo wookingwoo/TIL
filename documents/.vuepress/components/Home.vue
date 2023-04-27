@@ -6,16 +6,16 @@
       </h1>
 
       <div class="infoContainer">
-        <div class="name">Jay Jin's TIL</div>
+        <div class="name">wookingwoo's TIL</div>
         <ul>
           <li>
-            <a href="https://milooy.wordpress.com/">Blog</a>
+            <a href="https://blog.wookingwoo.com">Blog</a>
           </li>
           <li>
-            <a href="https://github.com/milooy">GitHub</a>
+            <a href="https://github.com/wookingwoo">GitHub</a>
           </li>
           <li>
-            <a href="https://soundcloud.com/hellojayjin">SoundCloud</a>
+            <a href="https://wookingwoo.com">wookingwoo.com</a>
           </li>
         </ul>
       </div>
