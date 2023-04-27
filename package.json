@@ -9,8 +9,5 @@
   },
   "dependencies": {
     "vuepress": "^1.5.2"
-  },
-  "engines": {
-    "node": ">= 19.0.0"
   }
 }
