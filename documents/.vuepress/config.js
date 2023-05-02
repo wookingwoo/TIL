@@ -3,7 +3,8 @@ var CONST = require("./const");
 module.exports = {
   title: `Today wookingwoo Learned`,
   description: `wookingwoo's Personal Wiki (Today I Learned)`,
-  base: "/TIL/",
+  // base: "/TIL/",
+  base: "/",
   dest: "build",
   head: [
     [
