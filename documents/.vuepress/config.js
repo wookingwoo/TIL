@@ -35,6 +35,11 @@ module.exports = {
       },
 
       {
+        title: "Redis",
+        children: CONST.RedisList,
+      },
+
+      {
         title: "ETC",
         children: CONST.ETCList,
       },

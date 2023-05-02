@@ -11,3 +11,5 @@ exports.PythonList = [
 exports.DailyCodingList = ["Daily-Coding/filtering"];
 
 // exports.ETCList = [];
+
+exports.RedisList = ["Redis/redis_docker.md"];
